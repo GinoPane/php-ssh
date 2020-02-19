@@ -1,13 +1,17 @@
 {
-    "name":         "herzult/php-ssh",
+    "name":         "gino-pane/php-ssh",
     "type":         "library",
-    "description":  "Provides an object-oriented wrapper for the php ssh2 extension.",
-    "keywords":     ["ssh", "ssh2"],
+    "description":  "Provides an object-oriented wrapper for the PHP SSH2 extension.",
+    "keywords":     ["ssh", "ssh2", "libssh2"],
     "license":      "MIT",
     "authors": [
         {
             "name": "Antoine Hérault",
             "homepage": "https://github.com/Herzult"
+        },
+        {
+            "name": "Siarhei <Gino Pane> Karavai",
+            "homepage": "https://github.com/GinoPane"
         },
         {
             "name":     "The contributors",
